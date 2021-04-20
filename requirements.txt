@@ -1,6 +1,6 @@
 uvloop==0.10.2
 setproctitle==1.1.10
-asyncpg==0.16.0
+asyncpg==0.21.0
 colorlog==3.1.4
 pybtc
 aiodns
